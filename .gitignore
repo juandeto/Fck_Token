@@ -10,7 +10,7 @@
 
 # production
 /build
-./secret.json
+/secret.json
 
 # misc
 .DS_Store
